@@ -269,10 +269,3 @@ This project demonstrates:
 
 ---
 
-## 📌 Bonus (For Resume Use)
-
-This project is highly valuable for:
-
-* AI/ML roles
-* Software engineering interviews
-* Hackathons (HackWithInfy 🔥)
